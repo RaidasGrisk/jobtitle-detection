@@ -1,0 +1,6 @@
+# data
+EWNERTC_TC_Fine\ Grained\ NER_DomainDependent_NoiseReduction.DUMP
+B-person_profession
+
+# training
+https://github.com/flairNLP/flair/blob/master/resources/docs/TUTORIAL_7_TRAINING_A_MODEL.md

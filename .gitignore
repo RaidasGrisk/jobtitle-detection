@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+.idea/
+.DS_Store/
+
+# large files
+*.pickle
+*.zip
+*.DUMP
+dataset/train.txt
+dataset/test.txt
+dataset/dev.txt
+
+# dirs
+resources/taggers/*
